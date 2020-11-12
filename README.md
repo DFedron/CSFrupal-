@@ -1,6 +1,6 @@
 # CSFrupal-
 
-The game is 32 temporarily.
+The game is 32x32 temporarily.
 
 There is no item class.
 
